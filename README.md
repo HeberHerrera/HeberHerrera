@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeberHerrera
 - 👀 I’m interested in React, web/mobile design, Videogames, Tools.
 - 🌱 I’m currently learning React Native :D
-- 💞️ I’m looking to collaborate on any kind of proyect :D
+- 💞️ I’m looking to collaborate on any kind of project :D
 - 📫 How to reach me ing.heberh@gmail.com
 
 <!---
